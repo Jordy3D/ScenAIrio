@@ -1,0 +1,30 @@
+Project overview
+Sports Warehouse is a retail company that would like to start selling sports equipment online. The project will be delivered in stages, the final stage of this project is to be delivered by the end of this semester.
+The business owner is Elleanor Stephens, who has hired a marketing manager (Jorden Small) and an accounting manager (Isabella Richard).
+The project will be overseen by the marketing manager (Jorden Small). Jorden Small has hired a design manager (Sally Cortez) and an IT manager (Patrick Brown).
+
+Design requirements
+Sally, the design manager, has asked a graphic design firm to create the visual design of the website. They have created a Photoshop file which contains the desktop design and mobile design for the website.
+
+Web hosting 
+The company already has web hosting, which is a Linux server running Apache (v2.4+), PHP (v7.3+) and a MySQL database (v5.7+).
+
+Deliverables
+The design manager and the IT manager have hired you to build the website. You will be reporting to both of them for the duration of the project.
+The project will be delivered in 4 separate stages. Each deliverable will contain some practical creation of an aspect of the project along with documentation.
+
+Deliverable A – Pre-launch (coming soon) web page
+Dynamic Web project build stream
+Create a one-page website showing the company logo and a message indicating they will be selling sports equipment online soon. The page must contain a contact form that can be filled out by the visitors of the website to ask questions.
+
+Deliverable B – Static website layout
+UX Web layout stream
+Use the provided Photoshop design to create the website home page using HTML and CSS. It will be given to the design manager for approval before it is converted to a PHP website.
+
+Deliverable C – Customer browsing
+Dynamic Web project build stream
+Add functionality to the website to allow customers to browse and search products using PHP and a database.
+
+Deliverable D – Customer purchasing and administration
+Dynamic Web project stream
+Add functionality to the website to allow customers to purchase products and to allow staff to maintain products.
