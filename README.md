@@ -18,16 +18,30 @@ Can also be used as a weird AI-based way to glean information from a dataset, bu
 
 ### Install
 
-Run `install.bat`.
+Run `INSTALL.bat`.
 This will install the Python packages needed for the bot to run, and will initialise a `secrets.py` file for you to use.
 
 ### Scenario
 
-Include your scenario information in `scenario.txt`.
+Include your scenario information in a text file and place it into the `scenarios` folder.  
+
+For instance: 
+
+```
+scenarios
+├── Assessment 1 Scenario.txt
+├── Business X SLA.txt
+├── SystemRequirements.txt
+├── Interview Information.txt
+¦
+└── untitled_scenario.txt
+```
+
+These will be listed when the program starts up.
 
 ### Rules
 
-Include rules in `rules.txt` for the AI to try and follow. 
+Include rules in `rules.txt` for the AI to try and follow.
 One rule per line.
 
 ### Keys and Tokens
@@ -40,5 +54,5 @@ In `secret.py`, you will store your API token:
 
 ## Running
 
-Once everything is installed and set up properly, double-clicking `main.py` should work.
+Once everything is installed and set up properly, double-clicking `main.py` or `RUN.bat` should work.  
 If it brings up a "no program to run this" message, you can Browse for Python from there and then say "always use this program".
