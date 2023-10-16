@@ -187,7 +187,6 @@ if __name__ == "__main__":
         
         # get size of terminal
         columns, rows = os.get_terminal_size()
-        print(f"Terminal size: {columns}x{rows}")
 
         # list comprehension to remove all non .txt files
         scenarios = [scenario for scenario in scenarios if scenario.endswith(".txt")]
